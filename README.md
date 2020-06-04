@@ -9,3 +9,5 @@ Para fazer os diferentes Menus do jogo, utilizamos o Photoshop. Todos os mapas f
 Para a criação da Aplicação Web utilizamos o html / css com grids para a facil organização dos conteúdos. Utilizamos o heroku para conseguir alojar a aplicação na web. Utilizamos o Git para guardar o trabalho e facilitar o seu acesso remoto.
 
 As sprites usadas neste projeto foram obtidas através do itch.io A música de fundo utilizada foi escolhida do soundcloud. Os sons de apanhar a fruta, tal como o de 'perder' foram obtidos no zapsplat.
+
+O download do jogo pode ser encontrado no seguinte site http://computerscientist.herokuapp.com/game
