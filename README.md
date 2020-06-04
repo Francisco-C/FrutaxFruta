@@ -1,4 +1,5 @@
-#FrutaxFruta - Projeto final
+#Projeto Final - cadeira Teoria da Computação ULL
+
 Com base na cadeira da Teoria da Computação, criamos um jogo utilizando um diagrama de estados para descrever as diferentes fases/menus do jogo
 
 O Fruta x Fruta foi desenvolvido em Python com duas das suas bibliotecas, o arcade e o pygame. Usamos o Pygamepara a implementaçao da música de fundo bem como alguns dos sons presentes no jogo Em vez de usar o pygame para o projeto todo, obtamos por usar o arcade por ser mais dedicado a plataformas, o tipo de jogo que desenvlvemos.
