@@ -1,4 +1,4 @@
-#Projeto Final - cadeira Teoria da Computação ULL
+# FrutaxFruta - Projeto final
 
 Com base na cadeira da Teoria da Computação, criamos um jogo utilizando um diagrama de estados para descrever as diferentes fases/menus do jogo
 
